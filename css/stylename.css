@@ -1,0 +1,31 @@
+/* font-family: "MontserratBold"; */
+@font-face {
+    font-family: "MontserratBold";
+    src: url("../fonts/MontserratBold/Montserrat-Bold.eot");
+    src: url("../fonts/MontserratBold/Montserrat-Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MontserratBold/Montserrat-Bold.woff") format("woff"),
+    url("../fonts/MontserratBold/Montserrat-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "MontserratRegular"; */
+@font-face {
+    font-family: "MontserratRegular";
+    src: url("../fonts/MontserratRegular/Montserrat-Regular.eot");
+    src: url("../fonts/MontserratRegular/Montserrat-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MontserratRegular/Montserrat-Regular.woff") format("woff"),
+    url("../fonts/MontserratRegular/Montserrat-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "MontserratLight"; */
+@font-face {
+    font-family: "Montserrt-light";
+    src: url("../fonts/MontserratRegular/Montserrat-light.eot");
+    src: url("../fonts/MontserratRegular/Montserrat-light.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MontserratRegular/Montserrat-light.woff") format("woff"),
+    url("../fonts/MontserratRegular/Montserrat-light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
